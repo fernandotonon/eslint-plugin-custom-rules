@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-custom-rules",
+  "version": "1.0.0",
+  "description": "Custom ESLint rules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandotonon/eslint-plugin-custom-rules.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslint-plugin-custom-rules"
+  ],
+  "author": "Fernando Tonon de Rossi",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
